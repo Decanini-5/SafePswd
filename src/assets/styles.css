@@ -48,7 +48,7 @@ body {
 }
 .copy:hover {
   background: rgb(160, 160, 160);
-  content: url("..\\copy_icon_w.png");
+  content: url("copy_icon_w.png");
 }
 .text {
   font-family: 'Work Sans', sans-serif;
