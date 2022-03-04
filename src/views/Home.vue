@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img src="..\safe-password-logo.png" alt="sp_logo" />
+    <img src="safe-password-logo.png" alt="sp_logo" />
     <div class="text">Enter a length for your password.</div>
     <div class="input-container">
       <button
@@ -27,7 +27,7 @@
     <div class="text" id="pswd">
       <input class="input-pswd" type="text" id="input-pswd" />
       <button class="copy" @click="copyToClipboard">
-        <img src="..\copy_icon.png" alt="Copy" />
+        <img src="copy_icon.png" alt="Copy" />
       </button>
     </div>
   </div>
