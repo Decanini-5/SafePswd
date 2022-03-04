@@ -27,7 +27,7 @@
     <div class="text" id="pswd">
       <input class="input-pswd" type="text" id="input-pswd" />
       <button class="copy" @click="copyToClipboard">
-        <img src="..\copy_icon.png" alt="Copy" />
+        <img src="..\\copy_icon.png" alt="Copy" />
       </button>
     </div>
   </div>
