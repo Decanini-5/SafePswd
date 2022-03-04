@@ -37,6 +37,7 @@
 import generatePasswordFromFile from "@/utilities/password";
 
 export default {
+  //eslint-disable-next-line
   name: "Home",
   data: () => ({
     password: null,
